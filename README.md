@@ -260,6 +260,7 @@ json
   用于生成压测流量，验证服务器吞吐能力。
 - **[WPF 上位机监控平台]**
   连接至本服务器的 SignalR Hub，订阅并实时展示传感器数据。
+- <p align="center"> <img src="./Assets/main2.png" alt="关联项目" width="900"> </p>
 
 ------
 
